@@ -1,7 +1,3 @@
-# Zeo-Programming-Language
-
-Based on your description, the fully mature, industry-grade vision of **Zeo** would look something like this:
-
 # Zeo
 
 ### Luxury Syntax. Native Speed.
